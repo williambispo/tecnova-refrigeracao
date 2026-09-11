@@ -1,0 +1,14 @@
+# Configurações locais do editor
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Dependências e logs
+node_modules/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
