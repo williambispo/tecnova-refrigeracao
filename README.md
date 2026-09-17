@@ -23,12 +23,13 @@ tecnova-refrigeracao/
 │   ├── images/
 │   └── js/
 │       └── main.js
+│   └── additions.css
 ├── .gitignore
 ├── index.html
 └── README.md
 ```
 
-A pasta `assets/images/` está pronta para receber fotografias próprias da empresa. A ilustração atual foi feita inteiramente com CSS, portanto o site já funciona sem arquivos de imagem externos.
+A pasta `assets/images/` contém imagens de referência dos aparelhos atendidos e um painel visual de logomarcas. Recomenda-se substituir essas imagens por fotografias próprias ou licenciadas antes da publicação comercial.
 
 ## Como executar no VS Code
 
@@ -47,6 +48,10 @@ A pasta `assets/images/` está pronta para receber fotografias próprias da empr
 - Botão flutuante de WhatsApp;
 - Links para Instagram e e-mail;
 - Layout responsivo para celular, tablet e desktop;
+- Galeria de aparelhos com fotos de referência;
+- Faixa de marcas atendidas com painel visual de logomarcas;
+- Catálogo ampliado com 11 categorias de aparelhos;
+- Seção de avaliações de clientes;
 - Acessibilidade básica com HTML semântico, foco visível, `aria-labels` e link para pular ao conteúdo.
 
 ## Dados configurados
